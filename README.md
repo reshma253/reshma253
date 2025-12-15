@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm SARAN:
+# 💫 Hi 👋, I'm RESHMA
 Artificial Intelligence & Data Science Student passionate about solving real-world problems with intelligent systems<br><br><br>- 💼 Developed two production-level projects during internship and client work<br>- 🍳 Built a hobby project: Ratatouille – AI-powered recipe generator<br>- 🌱 Exploring advanced AI integration, web development, and cloud platforms<br>- 🎨 Hobby: Drawing and creative design<br>- 💬 “Life unfolds in its own way; the key is to accept, observe, and move with it.”<br><br>
 # 🏆 Projects<br><br>
 # 1️⃣ Component Management (Internship at Cavinkare)
